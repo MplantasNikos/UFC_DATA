@@ -1,0 +1,17 @@
+{
+    "Open Weight": 0,
+    "Lightweight": 1,
+    "Heavyweight": 2,
+    "Middleweight": 3,
+    "Welterweight": 4,
+    "Super Heavyweight": 5,
+    "Light Heavyweight": 6,
+    "Catch Weight": 7,
+    "Featherweight": 8,
+    "Bantamweight": 9,
+    "Flyweight": 10,
+    "Women's Bantamweight": 11,
+    "Women's Strawweight": 12,
+    "Women's Flyweight": 13,
+    "Women's Featherweight": 14
+}

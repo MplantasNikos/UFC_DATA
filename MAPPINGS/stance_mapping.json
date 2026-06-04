@@ -1,0 +1,8 @@
+{
+    "unknown": 0,
+    "Orthodox": 1,
+    "Southpaw": 2,
+    "Open Stance": 3,
+    "Switch": 4,
+    "Sideways": 5
+}
